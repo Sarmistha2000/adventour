@@ -1,2 +1,3 @@
-# Tourify
-project-url : https://subhambharadwaz.github.io/Tourify/
+# Adventour
+
+project-url : https://affectionate-einstein-204951.netlify.app/
